@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my GitHub page! I try to code in the open when I can. 
+
 [![Gabe's github stats](https://github-readme-stats.vercel.app/api?username=gowhale&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowhale)](https://github.com/anuraghazra/github-readme-stats)
